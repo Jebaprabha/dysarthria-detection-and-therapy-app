@@ -34,9 +34,3 @@ Developed as part of a 3-member team project, under the guidance of a faculty me
 - `sound_convert.py` – Audio preprocessing and conversion utilities
 
 > Note: Large assets (trained model weights, audio datasets, generated spectrogram images) are excluded from this repository to keep it lightweight. Available on request.
-
-## Author
-
-**Jebaprabha B**
-B.Tech, Computer Science and Business Systems
-KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
