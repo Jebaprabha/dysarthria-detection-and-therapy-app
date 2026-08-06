@@ -4,9 +4,9 @@ An AI-based application that detects dysarthria (speech impairment) severity fro
 
 ## Overview
 
-This project combines deep learning-based audio analysis with a GenAI-powered virtual therapist to help individuals with speech impairments track their condition and practice therapy exercises. Related work was presented online at the **Third International Conference on Integration of Advanced Technologies for Industry 5.0 (ICIATI 5.0)**, hosted by KCG College of Technology, Chennai, on 3–4 July 2026.
+This project combines deep learning-based audio analysis with a GenAI-powered virtual therapist to help individuals with speech impairments track their condition and practice therapy exercises.
 
-Developed by a team of 3 students, under the guidance of a faculty mentor.
+Developed as part of a 3-member team project, under the guidance of a faculty mentor.
 
 ## Features
 
@@ -36,14 +36,8 @@ Developed by a team of 3 students, under the guidance of a faculty mentor.
 
 > Note: Large assets (trained model weights, audio datasets, generated spectrogram images) are excluded from this repository to keep it lightweight. Available on request.
 
-## Recognition
-
-A related paper, *"A Computational Model For Real Time Speech Severity In Therapy Systems,"* was presented online at **ICIATI 5.0** (Third International Conference on Integration of Advanced Technologies for Industry 5.0), hosted by KCG College of Technology, Chennai, 3–4 July 2026.
-
 ## Author
 
 **Jebaprabha B**
 B.Tech, Computer Science and Business Systems
 KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
-
-Co-authors: Tamilarasu P, Sriramsundar K, Vikasni KR
