@@ -15,7 +15,6 @@ Developed as part of a 3-member team project, under the guidance of a faculty me
 - **Voice Input** – Accepts spoken input via SpeechRecognition for a natural, hands-free therapy experience.
 - **Progress Tracking** – A "Progress Replay" feature lets users compare past and current sessions to track improvement.
 - **PDF Report Generation** – Uses pdfplumber to generate and compare progress reports.
-- **Phonetic Matching** – A phonetic alternatives dictionary helps match mispronounced words to intended therapy words.
 
 ## Tech Stack
 
